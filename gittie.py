@@ -1,1 +1,4 @@
-print ("Hello gittie")
+print("Hello gittie")
+def joke (joke): 
+    print("joke")
+    
